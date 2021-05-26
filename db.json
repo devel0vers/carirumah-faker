@@ -1,11 +1,50 @@
 {
-  "posts": [
+  "rumah": [
     {
-      "id": 1,
-      "title": "hello"
+      "title": "Tybur Family Home",
+      "image": "https://assets.pikiran-rakyat.com/crop/4x40:699x400/x/photo/2021/02/01/2708869325.jpg",
+      "status": "rent",
+      "price": "100000000",
+      "per": "tahun",
+      "certificate": "SHM - Sertifikat Hak Milik",
+      "electrical": "2200",
+      "building_area": "550",
+      "surface area": "640",
+      "facility": {
+        "bedroom": 4,
+        "bathroom": 2
+      },
+      "contact_name": "Proco Galiard",
+      "contact": "08967535468",
+      "address": "Jl. Reiner no 15",
+      "zip_code": "14271",
+      "city": "Liberio",
+      "state": "Marley",
+      "posted_by": "Marleyan Companies",
+      "posted_at": "2021-05-26"
+    },
+    {
+      "title": "Eren's Home",
+      "image": "https://www.akibanation.com/wp-content/uploads/2017/02/Cover-1-3.jpg",
+      "status": "sell",
+      "price": "2570000000",
+      "per": "",
+      "certificate": "SHM - Sertifikat Hak Milik",
+      "electrical": "2400",
+      "building_area": "580",
+      "surface area": "700",
+      "facility": {
+        "bedroom": 5,
+        "bathroom": 2
+      },
+      "contact_name": "Mikasa Ackerman",
+      "contact": "089443767880",
+      "address": "Jl. Maria no 15",
+      "zip_code": "14271",
+      "city": "Rose",
+      "state": "Eldian",
+      "posted_by": "Eldian Family Group",
+      "posted_at": "2021-05-21"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
