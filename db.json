@@ -13,7 +13,7 @@
       "certificate": "SHM - Sertifikat Hak Milik",
       "electrical": "2200",
       "building_area": "550",
-      "surface area": "640",
+      "surface_area": "640",
       "facility": {
         "bedroom": 4,
         "bathroom": 2
@@ -40,7 +40,7 @@
       "certificate": "SHM - Sertifikat Hak Milik",
       "electrical": "2400",
       "building_area": "580",
-      "surface area": "700",
+      "surface_area": "700",
       "facility": {
         "bedroom": 5,
         "bathroom": 2
